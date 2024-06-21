@@ -3,10 +3,8 @@
 
 - Vitualenv
     Create
-
-    python -m venv .venv
+    `python -m venv .venv`
 
     activate
-    
-    .venv/Scripts/activate
+    `.venv/Scripts/activate`
 
