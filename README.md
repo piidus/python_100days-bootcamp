@@ -13,8 +13,9 @@
 
 # Projects
 
-- Password Generarot
-`bash 
-Password Generator Project.py`
+- [Password Generarot](https://github.com/piidus/python_100days-bootcamp/blob/main/Password%20Generator%20Project.py)
+    `bash 
+    Password Generator Project.py`
+
 
 
