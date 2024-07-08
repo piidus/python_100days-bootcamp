@@ -11,3 +11,10 @@
     
     `.venv/Scripts/activate`
 
+# Projects
+
+- Password Generarot
+`bash 
+Password Generator Project.py`
+
+
