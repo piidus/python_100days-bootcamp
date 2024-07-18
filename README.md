@@ -17,7 +17,7 @@
     `bash 
     Password Generator Project.py`
 
-- [Dynamic Class creation]((https://github.com/piidus/python_100days-bootcamp/blob/main/dynamic%20class.py))
+- [Dynamic Class creation](https://github.com/piidus/python_100days-bootcamp/blob/main/dynamic%20class.py)
 
 
 
